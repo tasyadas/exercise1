@@ -1,2 +1,2 @@
-# project1
-Tashya Dwi Askara Siahaan (Project 1)
+# exercise1
+Tashya Dwi Askara Siahaan (exercise 1)
